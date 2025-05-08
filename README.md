@@ -26,13 +26,13 @@ To build a scalable, AI-powered medical billing analysis system that can:
 
 ---
 
-## 📁 Dataset Sources
+##  Dataset Sources
 
 1. [CMS Medicare Claims Data](https://data.cms.gov/provider-summary-by-type-of-service)
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 1. **Data Ingestion**: Claims data collected from public datasets or synthetically generated
 2. **Preprocessing**: Cleaning, encoding, normalization, and NLP on notes
@@ -66,6 +66,6 @@ Built with 💙 by [Srikaanth Pavuluri]
 Feel free to contribute or open an issue!
 
 ---
-##Credits
+## Credits
 
 Datasets or data used for this project is owened by its respectrive owners. Thanks for your understanding
